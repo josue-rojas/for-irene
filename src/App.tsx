@@ -93,7 +93,7 @@ function App() {
           paddingTop: "24px",
         }}
       >
-        {getBlocks(126)}
+        {getBlocks(252)}
       </div>
       <span>
         I love you! ❤️
