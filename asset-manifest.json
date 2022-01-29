@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/irene-valentines/static/css/main.2de52927.chunk.css",
-    "main.js": "/irene-valentines/static/js/main.5ceb55a2.chunk.js",
-    "main.js.map": "/irene-valentines/static/js/main.5ceb55a2.chunk.js.map",
-    "runtime-main.js": "/irene-valentines/static/js/runtime-main.7e3a044d.js",
-    "runtime-main.js.map": "/irene-valentines/static/js/runtime-main.7e3a044d.js.map",
-    "static/js/2.53916da3.chunk.js": "/irene-valentines/static/js/2.53916da3.chunk.js",
-    "static/js/2.53916da3.chunk.js.map": "/irene-valentines/static/js/2.53916da3.chunk.js.map",
-    "static/js/3.7554c90d.chunk.js": "/irene-valentines/static/js/3.7554c90d.chunk.js",
-    "static/js/3.7554c90d.chunk.js.map": "/irene-valentines/static/js/3.7554c90d.chunk.js.map",
-    "index.html": "/irene-valentines/index.html",
-    "static/css/main.2de52927.chunk.css.map": "/irene-valentines/static/css/main.2de52927.chunk.css.map",
-    "static/js/2.53916da3.chunk.js.LICENSE.txt": "/irene-valentines/static/js/2.53916da3.chunk.js.LICENSE.txt",
-    "static/media/heart-2.svg": "/irene-valentines/static/media/heart-2.8e2291c4.svg",
-    "static/media/heart-3.svg": "/irene-valentines/static/media/heart-3.11d161f8.svg",
-    "static/media/heart-4.svg": "/irene-valentines/static/media/heart-4.2892c386.svg",
-    "static/media/heart.svg": "/irene-valentines/static/media/heart.d29e4545.svg"
+    "main.css": "/for-irene/static/css/main.2de52927.chunk.css",
+    "main.js": "/for-irene/static/js/main.99795bf8.chunk.js",
+    "main.js.map": "/for-irene/static/js/main.99795bf8.chunk.js.map",
+    "runtime-main.js": "/for-irene/static/js/runtime-main.b17d8f03.js",
+    "runtime-main.js.map": "/for-irene/static/js/runtime-main.b17d8f03.js.map",
+    "static/js/2.53916da3.chunk.js": "/for-irene/static/js/2.53916da3.chunk.js",
+    "static/js/2.53916da3.chunk.js.map": "/for-irene/static/js/2.53916da3.chunk.js.map",
+    "static/js/3.7554c90d.chunk.js": "/for-irene/static/js/3.7554c90d.chunk.js",
+    "static/js/3.7554c90d.chunk.js.map": "/for-irene/static/js/3.7554c90d.chunk.js.map",
+    "index.html": "/for-irene/index.html",
+    "static/css/main.2de52927.chunk.css.map": "/for-irene/static/css/main.2de52927.chunk.css.map",
+    "static/js/2.53916da3.chunk.js.LICENSE.txt": "/for-irene/static/js/2.53916da3.chunk.js.LICENSE.txt",
+    "static/media/heart-2.svg": "/for-irene/static/media/heart-2.8e2291c4.svg",
+    "static/media/heart-3.svg": "/for-irene/static/media/heart-3.11d161f8.svg",
+    "static/media/heart-4.svg": "/for-irene/static/media/heart-4.2892c386.svg",
+    "static/media/heart.svg": "/for-irene/static/media/heart.d29e4545.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e3a044d.js",
+    "static/js/runtime-main.b17d8f03.js",
     "static/js/2.53916da3.chunk.js",
     "static/css/main.2de52927.chunk.css",
-    "static/js/main.5ceb55a2.chunk.js"
+    "static/js/main.99795bf8.chunk.js"
   ]
 }
