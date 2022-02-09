@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/for-irene/static/css/main.2de52927.chunk.css",
-    "main.js": "/for-irene/static/js/main.99795bf8.chunk.js",
-    "main.js.map": "/for-irene/static/js/main.99795bf8.chunk.js.map",
+    "main.js": "/for-irene/static/js/main.76558ccd.chunk.js",
+    "main.js.map": "/for-irene/static/js/main.76558ccd.chunk.js.map",
     "runtime-main.js": "/for-irene/static/js/runtime-main.b17d8f03.js",
     "runtime-main.js.map": "/for-irene/static/js/runtime-main.b17d8f03.js.map",
     "static/js/2.53916da3.chunk.js": "/for-irene/static/js/2.53916da3.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b17d8f03.js",
     "static/js/2.53916da3.chunk.js",
     "static/css/main.2de52927.chunk.css",
-    "static/js/main.99795bf8.chunk.js"
+    "static/js/main.76558ccd.chunk.js"
   ]
 }
