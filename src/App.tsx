@@ -77,7 +77,7 @@ function App() {
         display: "flex",
         flexWrap: "wrap",
         justifyContent: "center",
-        padding: "24px 16px 16px",
+        padding: "24px 16px 40px",
       }}
     >
       <span className="title">For My Valentine</span>
@@ -95,7 +95,10 @@ function App() {
       >
         {getBlocks(252)}
       </div>
-      <span>
+      <span style={{
+        fontSize: '1.4rem',
+        fontWeight: 'bold'
+      }}>
         I love you! ❤️
       </span>
     </div>
