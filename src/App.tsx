@@ -46,7 +46,7 @@ function App() {
     // console.log("rotate", rotPos);
     for (let i = 0; i < num; i++) {
       blocks.push(
-        <Block>
+        <Block key={`${i}-block`}>
           <Icon
             rotate={altRot ? rotNeg : rotPos}
             image={images[i % images.length]}
